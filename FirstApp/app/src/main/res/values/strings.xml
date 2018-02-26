@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">抽签</string>
+    <string name="action_settings">Settings</string>
+    <string name="Button_Text_Pre">抽一个</string>
+    <string name="RB1">3</string>
+    <string name="RB2">4</string>
+    <string name="RB3">5</string>
+    <string name="RB4">6</string>
+</resources>
